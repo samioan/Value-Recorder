@@ -1,2 +1,2 @@
 # Value-Recorder
-Record values ​​from 10 to 100 in a table and display the values ​​of the unique inputs
+Records values ​​from 10 to 100 in a table and displays the values ​​of the unique inputs
